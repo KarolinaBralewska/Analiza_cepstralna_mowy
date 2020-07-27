@@ -58,7 +58,7 @@ c = dct(log_cep);
 c(1,:)=[];
 
 mesh(c);
-title("Wykres wspó³czynników melcepstralnych badanego sygna³u");
-xlabel("Iloœæ ramek");
-ylabel("Iloœæ filtrow");
-zlabel("Wartoœæ wspó³czynników melcepstralnych");
+tittle("Wykres 
+xlabel("Ilosc ramek");
+ylabel("ilosc filtrow");
+zlabel("mfcc");
