@@ -1,1 +1,0 @@
-# Analiza_cepstralna_mowy

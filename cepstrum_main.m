@@ -4,7 +4,7 @@ clc;
 %% za³adowanie sygna³u
 % x- sygna³ mowy
 % fp- czestotliwosc probkowania
-[x, fp]= audioread('TZ1M1_5_.wav');
+[x, fp]= audioread('5-a_n.wav');
 
 N=length(x);%liczba probek
 %t=[0:N-1]./fp;
